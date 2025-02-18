@@ -1,6 +1,6 @@
 ### 🎮 Released:
 
-- <a href="https://store.steampowered.com/app/3349860/Dr_COG/" target="_blank"><img src="https://img.shields.io/badge/-Steam-4479A1?style=flat-square&logo=Steam&logoColor=white"/></a>
+- <a href="https://store.steampowered.com/app/3349860/Dr_COG/" target="_blank"><img src="https://img.shields.io/badge/-Dr.Cog-4479A1?style=flat&logo=Steam&logoColor=white"/></a>
 
 ### 🏢 Experience: 
 | Period | Company | Program |
